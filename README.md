@@ -1,7 +1,7 @@
 UIView-ConstraintsWrapper
 =========
 
-UIView category that allows save on writing of boiler plate code and makes for more readable constraints layout too.
+UIView category that saves on writing of boiler plate code and makes for more readable constraints layout too.
 
 
 Before
@@ -73,7 +73,9 @@ Example
     [self.view addConstraint:[yellow constraintPinBottomToSuperview]];
 ```
 
+
 Output of above example
+
 ![Example Image](/example.png?raw=true "Example Image")
 
 
